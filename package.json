@@ -1,0 +1,21 @@
+{
+  "name": "mobilewright-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@mobilewright/test": "^0.0.67",
+    "mobilewright": "^0.0.67"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.14.0"
+  }
+}
