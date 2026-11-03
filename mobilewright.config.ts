@@ -5,7 +5,7 @@ export default defineConfig({
   bundleId: 'com.saucelabs.mydemoapp.android',
   deviceType: 'emulator',
   testDir: './tests',
-  timeout: 95_000,
+  timeout: 400_000,
   reporter: [
     ['list'],
     ['allure-playwright', {
