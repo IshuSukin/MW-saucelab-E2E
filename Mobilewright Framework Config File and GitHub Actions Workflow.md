@@ -134,8 +134,6 @@ Notes:
 ## 3. Links
 
 - Demo app: https://github.com/saucelabs/my-demo-app-android
-- Mobilewright configuration docs: https://mobilewright.dev/docs/test/configuration
-- Mobilewright project: https://github.com/mobile-next/mobilewright
 
 ## 4. Commands in order, with their purpose
 
